@@ -1,0 +1,27 @@
+{
+    "name": "LBorderView",
+    "description": "TODO: Add long description of the pod here.", 
+    "license": {
+        "type": "MIT", 
+        "file": "LICENSE"
+    }, 
+    "platforms": {
+        "ios": "7.0"
+    }, 
+    "authors": {
+        "lf": "wang002007@163.com"
+    }, 
+    "summary": "LBorderView", 
+    "source": {
+        "git": "https://github.com/easunny/LBorderView.git", 
+        "tag": "0.1.0"
+    }, 
+    "version": "0.1.0", 
+    "dependencies": {
+        
+    }, 
+    "source_files": "LBorderView/Classes/**/*", 
+    "homepage": "https://github.com/easunny/LBorderView.git", 
+    "resources": [
+    ]
+}
